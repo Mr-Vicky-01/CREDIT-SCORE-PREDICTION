@@ -1,4 +1,5 @@
 # Credit Score Prediction
+![OIP](https://github.com/Mr-Vicky-01/hand-sign-detection/assets/143078285/17c5beff-e1ab-488e-8354-ddd63170e1f2)
 
 ## Overview
 
